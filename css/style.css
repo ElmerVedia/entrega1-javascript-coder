@@ -6,7 +6,7 @@
     box-sizing: border-box;
     font-family: 'Rubik', sans-serif;
 }
-h1, h2, h3, h4, h5, h6, p, a, input, textarea, ul {
+h1, h2, h3, h4, h5, h6, p, a, input, ul {
     margin: 0;
     padding: 0;
 }
@@ -94,6 +94,10 @@ main {
 .producto-imagen {
     max-width: 100%;
     border-radius: 0.5rem;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+
 }
 .producto-detalles {
     text-align: center;
