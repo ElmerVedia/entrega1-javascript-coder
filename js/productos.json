@@ -1,0 +1,152 @@
+[
+    {
+        "id": "h-01",
+        "nombre": "Hamburguesa Cesar",
+        "precio": 2000,
+        "imagen":"./img/img-hamburguesa/h-cesar.jpg",
+        "categoria": {
+            "nombre": "HAMBURGUESAS",
+            "id": "hamburguesas"
+        }
+    },
+    {
+        "id": "h-02",
+        "nombre": "Hamburguesa Cheese",
+        "precio": 2200,
+        "imagen":"./img/img-hamburguesa/h-cheese.jpg",
+        "categoria": {
+            "nombre": "HAMBURGUESAS",
+            "id": "hamburguesas"
+        }
+    },
+    {
+        "id": "h-03",
+        "nombre": "Hamburguesa Clasica",
+        "precio": 2000,
+        "imagen":"./img/img-hamburguesa/h-clasica.jpg",
+        "categoria": {
+            "nombre": "HAMBURGUESAS",
+            "id": "hamburguesas"
+        }
+    },
+    {
+        "id": "h-04",
+        "nombre": "Hamburguesa De La Casa",
+        "precio": 2500,
+        "imagen":"./img/img-hamburguesa/h-delacasa.jpg",
+        "categoria": {
+            "nombre": "HAMBURGUESAS",
+            "id": "hamburguesas"
+        }
+    },
+    {
+        "id": "h-05",
+        "nombre": "Hamburguesa Devil",
+        "precio": 2300,
+        "imagen":"./img/img-hamburguesa/h-devil.jpg",
+        "categoria": {
+            "nombre": "HAMBURGUESAS",
+            "id": "hamburguesas"
+        }
+    },
+    {
+        "id": "p-01",
+        "nombre": "Pizza Caprichosa",
+        "precio": 3000,
+        "imagen":"./img/img-pizzas/p-caprichosa.jpg",
+        "categoria": {
+            "nombre": "PIZZAS",
+            "id": "pizzas"
+        }
+    },
+    {
+        "id": "p-02",
+        "nombre": "Pizza Cuatro Estaciones",
+        "precio": 3500,
+        "imagen":"./img/img-pizzas/p-cuatro-estaciones.jpg",
+        "categoria": {
+            "nombre": "PIZZAS",
+            "id": "pizzas"
+        }
+    },
+    {
+        "id": "p-03",
+        "nombre": "Pizza Jamon y Rucula",
+        "precio": 4000,
+        "imagen":"./img/img-pizzas/p-jamon-y-rucula.jpg",
+        "categoria": {
+            "nombre": "PIZZAS",
+            "id": "pizzas"
+        }
+    },
+    {
+        "id": "p-04",
+        "nombre": "Pizza Romana",
+        "precio": 4000,
+        "imagen":"./img/img-pizzas/p-romana.jpg",
+        "categoria": {
+            "nombre": "PIZZAS",
+            "id": "pizzas"
+        }
+    },
+    {
+        "id": "p-05",
+        "nombre": "Pizza Veggie",
+        "precio": 4500,
+        "imagen":"./img/img-pizzas/p-veggie.jpg",
+        "categoria": {
+            "nombre": "PIZZAS",
+            "id": "pizzas"
+        }
+    },
+    {
+        "id": "pp-01",
+        "nombre": "Aros de cebolla",
+        "precio": 2000,
+        "imagen":"./img/img-papas/cebolla-aros.jpg",
+        "categoria": {
+            "nombre": "PAPAS",
+            "id": "papas"
+        }
+    },
+    {
+        "id": "pp-02",
+        "nombre": "Papas con Cheddar",
+        "precio": 2000,
+        "imagen":"./img/img-papas/p-cheddar-panceta.png",
+        "categoria": {
+            "nombre": "PAPAS",
+            "id": "papas"
+        }
+    },
+    {
+        "id": "pp-03",
+        "nombre": "Papas Clasicas",
+        "precio": 1800,
+        "imagen":"./img/img-papas/p-clasicas.jpeg",
+        "categoria": {
+            "nombre": "PAPAS",
+            "id": "papas"
+        }
+    },
+    {
+        "id": "pp-04",
+        "nombre": "Papas Rellena de Carne",
+        "precio": 2300,
+        "imagen":"./img/img-papas/p-rellena-carne.jpg",
+        "categoria": {
+            "nombre": "PAPAS",
+            "id": "papas"
+        }
+    },
+    {
+        "id": "pp-05",
+        "nombre": "Papas Rellena de Queso",
+        "precio": 2300,
+        "imagen":"./img/img-papas/p-rellena-queso.jpg",
+        "categoria": {
+            "nombre": "PAPAS",
+            "id": "papas"
+        }
+    }
+]
